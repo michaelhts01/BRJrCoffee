@@ -14,5 +14,4 @@ class KonverterSuhu{
 				System.out.println("Suhu dalam Kelvin		:"+.getKelvin());
 				System.out.println("Suhu dalam Reamur		:"+t.getReamur());
 				System.out.println("Suhu dalam Reamur		:"+t.getReamur());
-		}
 		
